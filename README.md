@@ -36,7 +36,7 @@ This simulator was made using Python, having an interface in Java. It was develo
 </div>
 
 <div align="center">
-  <img src="NozzleGeometryFusion1.png" width="355"/>
+  <img src="NozzleGeometryFusion1.png" width="360"/>
   <img src="NozzleGeometryFusion2.png" width="400"/>
 </div>
 
