@@ -9,7 +9,7 @@ This simulator was made using Python, having an interface in Java. It was develo
 - Plot exhaust parameters (exhaust temperature and velocity) for different chamber pressures;
 - In the 2D plot, the contraction ratio, parabola exit angle, and nozzle length are displayed on the graphic;
 
-> Currently, the simulator has been used to design the nozzle geometry for a **hybrid rocket** using mainly **paraffin wax** as fuel and **N₂O** as oxidizer.
+> Currently, the simulator has been used to design the nozzle geometry for a **hybrid rocket** using mainly **paraffin wax** as fuel and **N₂O** as oxidizer to compete at EuRock 2025 with Porto Space Team.
 
 ---
 
@@ -28,3 +28,27 @@ This simulator was made using Python, having an interface in Java. It was develo
 ## Getting Ideal Expansion Ratio
 
 ![Expansion Ratio Plot](ExpansionRatioPlot.png)
+
+---
+
+## Performance Parameters
+
+![Performance Parameters](PerformanceTable.png)
+
+---
+
+## Exhaust Velocity
+
+![Exhaust Velocity](ExhaustVelocityPlot.png)
+
+---
+
+## Exhaust Temperature
+
+![Exhaust Temperature](ExhaustTemperature.png)
+
+---
+
+## Thrust Analysis
+
+![Thrust Analysis](ThrustPlot.png)
