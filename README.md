@@ -14,39 +14,38 @@ This simulator was made using Python, having an interface in Java. It was develo
 ---
 
 <table>
-  <tr>
-    <td align="center" width="50%">
+<tr>
+<td align="center" width="50%">
 
-      <h3>2D Geometry Plot</h3>
-      <img src="2Dplot.png" width="400"/>
+<b>2D Geometry Plot</b><br>
+<img src="2Dplot.png" width="400"><br><br>
 
-      <h3>AutoDesk Fusion Model</h3>
-      <img src="NozzleGeometryFusion0.png" width="400"/>
-      <br/>
-      <img src="NozzleGeometryFusion1.png" width="195"/>
-      <img src="NozzleGeometryFusion2.png" width="195"/>
+<b>AutoDesk Fusion Model</b><br>
+<img src="NozzleGeometryFusion0.png" width="400"><br>
+<img src="NozzleGeometryFusion1.png" width="195">
+<img src="NozzleGeometryFusion2.png" width="195"><br><br>
 
-      <h3>Exhaust Temperature</h3>
-      <img src="ExhaustTemperaturePlot.png" width="400"/>
+<b>Exhaust Temperature</b><br>
+<img src="ExhaustTemperaturePlot.png" width="400"><br>
 
-    </td>
-    <td align="center" width="50%">
+</td>
+<td align="center" width="50%">
 
-      <h3>3D Geometry Preview</h3>
-      <img src="3DPlot.png" width="400"/>
+<b>3D Geometry Preview</b><br>
+<img src="3DPlot.png" width="400"><br><br>
 
-      <h3>Getting Ideal Expansion Ratio</h3>
-      <img src="ExpansionRatioPlot.png" width="400"/>
+<b>Getting Ideal Expansion Ratio</b><br>
+<img src="ExpansionRatioPlot.png" width="400"><br><br>
 
-      <h3>Performance Parameters</h3>
-      <img src="PerformanceTable.png" width="400"/>
+<b>Performance Parameters</b><br>
+<img src="PerformanceTable.png" width="400"><br><br>
 
-      <h3>Exhaust Velocity</h3>
-      <img src="ExhaustVelocityPlot.png" width="400"/>
+<b>Exhaust Velocity</b><br>
+<img src="ExhaustVelocityPlot.png" width="400"><br><br>
 
-      <h3>Thrust Analysis</h3>
-      <img src="ThrustPlot.png" width="400"/>
+<b>Thrust Analysis</b><br>
+<img src="ThrustPlot.png" width="400"><br>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
