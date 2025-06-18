@@ -13,48 +13,71 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ---
 
+## 2D Geometry Plot
+
 <div align="center">
-
-<table>
-<tr>
-
-<!-- LEFT COLUMN -->
-<td align="center" width="50%">
-
-<b>2D Geometry Plot</b><br>
-<img src="2Dplot.png" width="380"/><br><br>
-
-<b>AutoDesk Fusion Model</b><br>
-<img src="NozzleGeometryFusion0.png" width="380"/><br><br>
-<img src="NozzleGeometryFusion1.png" width="185"/>
-<img src="NozzleGeometryFusion2.png" width="185"/><br><br>
-
-<b>Exhaust Temperature</b><br>
-<img src="ExhaustTemperaturePlot.png" width="380"/><br><br>
-
-<b>Exhaust Velocity</b><br>
-<img src="ExhaustVelocityPlot.png" width="380"/><br><br>
-
-</td>
-
-<!-- RIGHT COLUMN -->
-<td align="center" width="50%">
-
-<b>3D Geometry Preview</b><br>
-<img src="3DPlot.png" width="380"/><br><br>
-
-<b>Getting Ideal Expansion Ratio</b><br>
-<img src="ExpansionRatioPlot.png" width="380"/><br><br>
-
-<b>Performance Parameters</b><br>
-<img src="PerformanceTable.png" width="380"/><br><br>
-
-<b>Thrust Analysis</b><br>
-<img src="ThrustPlot.png" width="380"/><br><br>
-
-</td>
-
-</tr>
-</table>
-
+  <img src="2Dplot.png" width="400"/>
 </div>
+
+---
+
+## 3D Geometry Preview
+
+<div align="center">
+  <img src="3DPlot.png" width="400"/>
+</div>
+
+---
+
+## AutoDesk Fusion Model
+
+<div align="center">
+  <img src="NozzleGeometryFusion0.png" width="400"/>
+</div>
+
+<div align="center">
+  <img src="NozzleGeometryFusion1.png" width="363"/>
+  <img src="NozzleGeometryFusion2.png" width="400"/>
+</div>
+
+---
+
+## Getting Ideal Expansion Ratio
+
+<div align="center">
+  <img src="ExpansionRatioPlot.png" width="400"/>
+</div>
+
+---
+
+## Performance Parameters
+
+<div align="center">
+  <img src="PerformanceTable.png" width="400"/>
+</div>
+
+---
+
+## Exhaust Velocity
+
+<div align="center">
+  <img src="ExhaustVelocityPlot.png" width="400"/>
+</div>
+
+---
+
+## Exhaust Temperature
+
+<div align="center">
+  <img src="ExhaustTemperaturePlot.png" width="400"/>
+</div>
+
+---
+
+## Thrust Analysis
+
+<div align="center">
+  <img src="ThrustPlot.png" width="400"/>
+</div>
+
+
