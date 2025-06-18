@@ -27,11 +27,11 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ### AutoDesk Fusion Model
 
-![NozzleGeometry](NozzleGeometryFusion0.png)
+<img src="NozzleGeometryFusion1.png" width="500"/>
 
 <p float="left">
-  <img src="NozzleGeometryFusion1.png" width="300"/>
-  <img src="NozzleGeometryFusion2.png" width="400"/>
+  <img src="NozzleGeometryFusion1.png" width="500"/>
+  <img src="NozzleGeometryFusion2.png" width="500"/>
 </p>
 
 
