@@ -15,54 +15,67 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ## 2D Geometry Plot
 
-![2D Plot](2Dplot.png)
+<div align="center">
+  <img src="2Dplot.png" width="400"/>
+</div>
 
 ---
 
 ## 3D Geometry Preview
 
-![3D Plot](3DPlot.png)
+<div align="center">
+  <img src="3DPlot.png" width="400"/>
+</div>
 
 ---
 
-### AutoDesk Fusion Model
+## AutoDesk Fusion Model
 
 <div align="center">
-  <img src="NozzleGeometryFusion0.png" width="500"/>
+  <img src="NozzleGeometryFusion0.png" width="400"/>
 </div>
 
-<p float="left">
-  <img src="NozzleGeometryFusion1.png" width="455"/>
-  <img src="NozzleGeometryFusion2.png" width="500"/>
-</p>
-
+<div align="center">
+  <img src="NozzleGeometryFusion1.png" width="400"/>
+  <img src="NozzleGeometryFusion2.png" width="400"/>
+</div>
 
 ---
 
 ## Getting Ideal Expansion Ratio
 
-![Expansion Ratio Plot](ExpansionRatioPlot.png)
+<div align="center">
+  <img src="ExpansionRatioPlot.png" width="400"/>
+</div>
 
 ---
 
 ## Performance Parameters
 
-![Performance Parameters](PerformanceTable.png)
+<div align="center">
+  <img src="PerformanceTable.png" width="400"/>
+</div>
 
 ---
 
 ## Exhaust Velocity
 
-![Exhaust Velocity](ExhaustVelocityPlot.png)
+<div align="center">
+  <img src="ExhaustVelocityPlot.png" width="400"/>
+</div>
 
 ---
 
 ## Exhaust Temperature
 
-![Exhaust Temperature](ExhaustTemperaturePlot.png)
+<div align="center">
+  <img src="ExhaustTemperaturePlot.png" width="400"/>
+</div>
 
 ---
 
 ## Thrust Analysis
 
-![Thrust Analysis](ThrustPlot.png)
+<div align="center">
+  <img src="ThrustPlot.png" width="400"/>
+</div>
