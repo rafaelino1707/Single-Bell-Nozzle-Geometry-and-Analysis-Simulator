@@ -21,8 +21,8 @@ This simulator was made using Python, having an interface in Java. It was develo
 <img src="2Dplot.png" width="400"><br><br>
 
 <b>AutoDesk Fusion Model</b><br>
-<img src="NozzleGeometryFusion0.png" width="400"><br>
-<img src="NozzleGeometryFusion1.png" width="195">
+<img src="NozzleGeometryFusion0.png" width="200"><br>
+<img src="NozzleGeometryFusion1.png" width="165">
 <img src="NozzleGeometryFusion2.png" width="195"><br><br>
 
 <b>Exhaust Temperature</b><br>
