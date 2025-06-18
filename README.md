@@ -13,69 +13,40 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ---
 
-## 2D Geometry Plot
+<table>
+  <tr>
+    <td align="center" width="50%">
 
-<div align="center">
-  <img src="2Dplot.png" width="400"/>
-</div>
+      <h3>2D Geometry Plot</h3>
+      <img src="2Dplot.png" width="400"/>
 
----
+      <h3>AutoDesk Fusion Model</h3>
+      <img src="NozzleGeometryFusion0.png" width="400"/>
+      <br/>
+      <img src="NozzleGeometryFusion1.png" width="195"/>
+      <img src="NozzleGeometryFusion2.png" width="195"/>
 
-## 3D Geometry Preview
+      <h3>Exhaust Temperature</h3>
+      <img src="ExhaustTemperaturePlot.png" width="400"/>
 
-<div align="center">
-  <img src="3DPlot.png" width="400"/>
-</div>
+    </td>
+    <td align="center" width="50%">
 
----
+      <h3>3D Geometry Preview</h3>
+      <img src="3DPlot.png" width="400"/>
 
-## AutoDesk Fusion Model
+      <h3>Getting Ideal Expansion Ratio</h3>
+      <img src="ExpansionRatioPlot.png" width="400"/>
 
-<div align="center">
-  <img src="NozzleGeometryFusion0.png" width="400"/>
-</div>
+      <h3>Performance Parameters</h3>
+      <img src="PerformanceTable.png" width="400"/>
 
-<div align="center">
-  <img src="NozzleGeometryFusion1.png" width="365"/>
-  <img src="NozzleGeometryFusion2.png" width="400"/>
-</div>
+      <h3>Exhaust Velocity</h3>
+      <img src="ExhaustVelocityPlot.png" width="400"/>
 
----
+      <h3>Thrust Analysis</h3>
+      <img src="ThrustPlot.png" width="400"/>
 
-## Getting Ideal Expansion Ratio
-
-<div align="center">
-  <img src="ExpansionRatioPlot.png" width="400"/>
-</div>
-
----
-
-## Performance Parameters
-
-<div align="center">
-  <img src="PerformanceTable.png" width="400"/>
-</div>
-
----
-
-## Exhaust Velocity
-
-<div align="center">
-  <img src="ExhaustVelocityPlot.png" width="400"/>
-</div>
-
----
-
-## Exhaust Temperature
-
-<div align="center">
-  <img src="ExhaustTemperaturePlot.png" width="400"/>
-</div>
-
----
-
-## Thrust Analysis
-
-<div align="center">
-  <img src="ThrustPlot.png" width="400"/>
-</div>
+    </td>
+  </tr>
+</table>
