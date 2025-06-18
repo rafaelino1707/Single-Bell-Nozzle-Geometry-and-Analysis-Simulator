@@ -28,8 +28,9 @@ This simulator was made using Python, having an interface in Java. It was develo
 ### AutoDesk Fusion Model
 
 ![NozzleGeometry](NozzleGeometryFusion0.png)
-![NozzleGeometry](NozzleGeometryFusion1.png)
-![NozzleGeometry](NozzleGeometryFusion2.png)
+
+|--------|--------|
+| ![NozzleGeometry2D](NozzleGeometryFusion1.png) | ![NozzleGeometry3D](NozzleGeometryFusion2.png) |
 
 ---
 
