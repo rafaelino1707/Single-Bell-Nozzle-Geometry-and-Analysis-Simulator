@@ -25,6 +25,14 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ---
 
+### AutoDesk Fusion Model
+
+![NozzleGeometry](NozzleGeometry0.png)
+![NozzleGeometry](NozzleGeometry1.png)
+![NozzleGeometry](NozzleGeometry2.png)
+
+---
+
 ## Getting Ideal Expansion Ratio
 
 ![Expansion Ratio Plot](ExpansionRatioPlot.png)
@@ -45,7 +53,7 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ## Exhaust Temperature
 
-![Exhaust Temperature](ExhaustTemperature.png)
+![Exhaust Temperature](ExhaustTemperaturePlot.png)
 
 ---
 
