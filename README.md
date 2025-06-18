@@ -29,7 +29,11 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ![NozzleGeometry](NozzleGeometryFusion0.png)
 
-| ![NozzleGeometry2D](NozzleGeometryFusion1.png) | ![NozzleGeometry3D](NozzleGeometryFusion2.png) |
+<p float="left">
+  <img src="NozzleGeometryFusion1.png" width="300"/>
+  <img src="NozzleGeometryFusion2.png" width="400"/>
+</p>
+
 
 ---
 
