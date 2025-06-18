@@ -22,11 +22,14 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 <b>AutoDesk Fusion Model</b><br>
 <img src="NozzleGeometryFusion0.png" width="200"><br>
-<img src="NozzleGeometryFusion1.png" width="185">
+<img src="NozzleGeometryFusion1.png" width="18">
 <img src="NozzleGeometryFusion2.png" width="195"><br><br>
 
 <b>Exhaust Temperature</b><br>
 <img src="ExhaustTemperaturePlot.png" width="400"><br>
+
+<b>Exhaust Velocity</b><br>
+<img src="ExhaustVelocityPlot.png" width="400"><br><br>
 
 </td>
 <td align="center" width="50%">
@@ -39,9 +42,6 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 <b>Performance Parameters</b><br>
 <img src="PerformanceTable.png" width="400"><br><br>
-
-<b>Exhaust Velocity</b><br>
-<img src="ExhaustVelocityPlot.png" width="400"><br><br>
 
 <b>Thrust Analysis</b><br>
 <img src="ThrustPlot.png" width="400"><br>
