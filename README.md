@@ -29,7 +29,6 @@ This simulator was made using Python, having an interface in Java. It was develo
 
 ![NozzleGeometry](NozzleGeometryFusion0.png)
 
-|--------|--------|
 | ![NozzleGeometry2D](NozzleGeometryFusion1.png) | ![NozzleGeometry3D](NozzleGeometryFusion2.png) |
 
 ---
