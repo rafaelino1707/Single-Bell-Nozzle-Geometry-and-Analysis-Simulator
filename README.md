@@ -16,7 +16,7 @@ This simulator was made using Python, having an interface in Java. It was develo
 ## 2D Geometry Plot
 
 <div align="center">
-  <img src="2Dplot.png" width="400"/>
+  <img src="Images/2Dplot.png" width="400"/>
 </div>
 
 ---
