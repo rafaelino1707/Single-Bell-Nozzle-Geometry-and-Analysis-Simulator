@@ -10,12 +10,6 @@ import tkinter as messagebox
 card_str = """
 fuel C30H62  C 30 H 62  wt%=83.00
 h,cal=-158348.0  t(k)=298.15  rho=0.775
-fuel C8H8  C 8 H 8  wt%=7.00
-h,cal=36209  t(k)=298.15  rho=0.906
-fuel C4H6  C 4 H 6  wt%=5.00
-h,cal=26744  t(k)=298.15  rho=0.6149
-fuel C3H3N  C 3 H 3 N 1  wt%=5.00
-h,cal=35157  t(k)=298.15  rho=0.810
 """
 
 add_new_fuel( 'Paraffin/ABS', card_str )
@@ -127,7 +121,7 @@ def plot_thrust(P1, P2, P3, OF, expansion_ratio, rt):
 def start_gui():
     global root
     root = tk.Tk()
-    root.title("Nozzle Expansion Ratio Analysis")
+    root.title("Nozzle Thrust Generation Analysis")
     root.geometry("400x350")
 
     # Labels e Inputs
