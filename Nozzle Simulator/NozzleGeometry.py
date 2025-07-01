@@ -8,7 +8,8 @@ import math
 root = tk.Tk()
 root.title("Nozzle Profile Generator")
 
-# Main simulation function
+
+# ------------------------------====== Iniciate Main simulation function ======------------------------------ #
 def run_simulation(mode):
     try:
         # User Inputs
@@ -21,6 +22,8 @@ def run_simulation(mode):
         bell_contour = float(entry_bell_contour.get()) / 100
         cr = (R_chamber**2) / (rt**2)
 
+        
+        # ---------------====== Parameterization of the Nozzle Geometry Contour ======------------------- #
         # Arc intersection values
         xr = -1.5 * rt * math.sin(theta_sub)
         yr = 2.5 * rt - 1.5 * rt * math.cos(theta_sub)
@@ -84,6 +87,12 @@ def run_simulation(mode):
         def arc_sub(x):
             val = 2.25 * rt**2 - x**2
             return 2.5 * rt - np.sqrt(val) if val >= 0 else None
+        
+        # ---------------====== Parameterization of the Nozzle Geometry Contour ======------------------- #
+
+
+
+        # ---------------====== Points Generation ======------------------- #
 
         xs1, ys1 = [], []
         x = 0
@@ -316,6 +325,8 @@ def run_simulation(mode):
     except Exception as e:
         lbl_result.config(text=f"Error: {str(e)}")
 
+
+# ------------------------------====== Iniciate Main simulation function ======------------------------------
 
 # GUI Layout
 frame = ttk.Frame(root, padding=10)
