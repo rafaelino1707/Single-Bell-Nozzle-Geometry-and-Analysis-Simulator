@@ -52,7 +52,7 @@ def run_simulation(mode):
         Px = arc_x[-1]
         Py = arc_y[-1]
         m0 = math.tan(theta_in)
-        Lfinal = Px + Lparab
+        Lfinal = Px + Lparab*1.5
 
         # Calculating Coefficients
         A = np.array([
